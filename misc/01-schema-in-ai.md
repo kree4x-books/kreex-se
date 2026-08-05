@@ -95,7 +95,7 @@ A2UI，将AI可用的UI组件编目，为AI生成UI划定明确的可用组件�
 
 Schema散落在Service，则是事实上的：
 
-任一Service都无Schema，居中调度者无Schema。
+任一Service都有自身Schema，任一Service都无全局Schema，居中调度者全无Schema。
 
 何必。
 
