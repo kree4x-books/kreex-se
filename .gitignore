@@ -1,1 +1,11 @@
 _book
+
+# private / AI tooling
+tmp
+node_modules
+.workbuddy
+.trae
+.opencode
+.cursor
+.env
+.env.*
